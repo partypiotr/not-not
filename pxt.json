@@ -1,0 +1,17 @@
+{
+    "name": "not not",
+    "dependencies": {
+        "device": "*",
+        "first": "github:partypiotr/makecodearcade#master"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
